@@ -1,0 +1,2 @@
+host1 ansible_host=192.168.21.142 ansible_user=vagrant ansible_port=22 ansible_ssh_private_key_file=./.vagrant/machines/host1/vmware_desktop/private_key
+host2 ansible_host=192.168.21.143 ansible_user=vagrant ansible_port=22 ansible_ssh_private_key_file=./.vagrant/machines/host2/vmware_desktop/private_key
